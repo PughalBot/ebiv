@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ebiv/static/css/main.43a85d2f.css",
+    "main.js": "/ebiv/static/js/main.b0568971.js",
+    "static/media/bg.mp4": "/ebiv/static/media/bg.6575c998232db5956958.mp4",
+    "static/media/lol.png": "/ebiv/static/media/lol.3d73ef2dc10dfb1a38a2.png",
+    "index.html": "/ebiv/index.html",
+    "main.43a85d2f.css.map": "/ebiv/static/css/main.43a85d2f.css.map",
+    "main.b0568971.js.map": "/ebiv/static/js/main.b0568971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43a85d2f.css",
+    "static/js/main.b0568971.js"
+  ]
+}
